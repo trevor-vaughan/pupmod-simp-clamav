@@ -19,7 +19,7 @@ HOSTS:
       - client
     repos:
       simp:
-        url: https://dl.bintray.com/simp/5.1.0-Beta
+        url: https://dl.bintray.com/simp/5.1.X
         gpgkeys:
           - https://raw.githubusercontent.com/NationalSecurityAgency/SIMP/master/GPGKEYS/RPM-GPG-KEY-SIMP
           - https://getfedora.org/static/352C64E5.txt
